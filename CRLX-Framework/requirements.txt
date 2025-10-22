@@ -1,0 +1,7 @@
+cryptography
+pandas
+panel
+hvplot
+jupyter_bokeh
+plotly
+tqdm
